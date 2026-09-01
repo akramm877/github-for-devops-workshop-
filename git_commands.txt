@@ -1,0 +1,16 @@
+1008  rm testing.py
+ 1009  git init
+ 1010  ls
+ 1011  git init
+ 1012  ls -a
+ 1013  git init
+ 1014  git status
+ 1015  clear
+ 1016  ls
+ 1017  ls
+ 1018  git status
+ 1019  git add testing.py
+ 1020  git status
+ 1021  clear
+ 1022  git commit -m "added testing files"
+ 1023  clear 
