@@ -1,0 +1,30 @@
+ rm testing.py
+ git init
+ ls
+ git init
+ ls -a
+ git init
+  git status
+ clear
+  ls
+  ls
+ git status
+ git add testing.py
+ git status
+ clear
+ git commit -m "added testing files"
+ clear 
+ git status
+ git add .
+ git status
+ git commit -m "added testing files"
+ git status
+  clear
+ git remote add origin https://github.com/akramm877/github-for-devops-workshop-.git
+ git remote -v
+ git remote -v
+ git push origin master
+ git status
+ git push main
+ git push origin main
+ clear
